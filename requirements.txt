@@ -1,0 +1,10 @@
+torch
+transformers
+trl
+peft
+accelerate
+datasets
+deepspeed
+pandas
+tqdm
+openai
