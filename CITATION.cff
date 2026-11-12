@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code or the Essay-Syntax-Instruct data, please cite the paper below."
+title: "Advancing Student Writing Through Automated Syntax Feedback"
+repository-code: "https://github.com/KamyarZeinalipour/Essay-Syntax-Feedback"
+license: Apache-2.0
+authors:
+  - family-names: "Zeinalipour"
+    given-names: "Kamyar"
+  - family-names: "Mehak"
+    given-names: "Mehak"
+  - family-names: "Parsamotamed"
+    given-names: "Fatemeh"
+  - family-names: "Maggini"
+    given-names: "Marco"
+  - family-names: "Gori"
+    given-names: "Marco"
+preferred-citation:
+  type: conference-paper
+  title: "Advancing Student Writing Through Automated Syntax Feedback"
+  authors:
+    - family-names: "Zeinalipour"
+      given-names: "Kamyar"
+    - family-names: "Mehak"
+      given-names: "Mehak"
+    - family-names: "Parsamotamed"
+      given-names: "Fatemeh"
+    - family-names: "Maggini"
+      given-names: "Marco"
+    - family-names: "Gori"
+      given-names: "Marco"
+  collection-title: "International Workshop on AI in Education and Educational Research (AIEER 2024), part of the 27th European Conference on Artificial Intelligence (ECAI 2024), Santiago de Compostela, Spain"
+  conference:
+    name: "AIEER 2024 at ECAI 2024"
+    city: "Santiago de Compostela"
+    country: ES
+  month: 10
+  year: 2024
+  url: "https://arxiv.org/abs/2501.07740"
